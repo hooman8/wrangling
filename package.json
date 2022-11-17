@@ -13,5 +13,8 @@
     "sampler"
   ],
   "author": "Hooman Pegahmehr",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
